@@ -1,0 +1,1789 @@
+{
+  "nodes": [
+    {
+      "sense": 0,
+      "wordForms": "[sit, sit down]",
+      "definition": "be seated",
+      "id": "[sit, sit down](0)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[lounge]",
+      "definition": "sit or recline comfortably",
+      "id": "[lounge](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[sprawl]",
+      "definition": "sit or lie with one\u0027s limbs spread out",
+      "id": "[sprawl](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[perch, roost, rest]",
+      "definition": "sit, as on a branch",
+      "id": "[perch, roost, rest](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[squat, crouch, scrunch, scrunch up, hunker, hunker down]",
+      "definition": "sit on one\u0027s heels",
+      "id": "[squat, crouch, scrunch, scrunch up, hunker, hunker down](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 1,
+      "wordForms": "[sit, sit around]",
+      "definition": "be around, often idly or without specific purpose",
+      "id": "[sit, sit around](1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[be]",
+      "definition": "occupy a certain position or area; be somewhere",
+      "id": "[be](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 2,
+      "wordForms": "[sit down, sit]",
+      "definition": "take a seat",
+      "id": "[sit down, sit](2)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[change posture]",
+      "definition": "undergo a change in bodily posture",
+      "id": "[change posture](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 3,
+      "wordForms": "[sit]",
+      "definition": "be in session",
+      "id": "[sit](3)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[convene]",
+      "definition": "meet formally",
+      "id": "[convene](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 4,
+      "wordForms": "[model, pose, sit, posture]",
+      "definition": "assume a posture as for artistic purposes",
+      "id": "[model, pose, sit, posture](4)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[expose, exhibit, display]",
+      "definition": "to show, make visible or apparent",
+      "id": "[expose, exhibit, display](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[ramp]",
+      "definition": "be rampant",
+      "id": "[ramp](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 5,
+      "wordForms": "[ride, sit]",
+      "definition": "sit and travel on the back of animal, usually while controlling its motions",
+      "id": "[ride, sit](5)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[travel, go, move, locomote]",
+      "definition": "change location; move, travel, or proceed, also metaphorically",
+      "id": "[travel, go, move, locomote](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[override]",
+      "definition": "ride (a horse) too hard",
+      "id": "[override](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[ride herd]",
+      "definition": "driving animals such as horses and cattle while riding along with them",
+      "id": "[ride herd](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[outride]",
+      "definition": "ride better, faster, or further than",
+      "id": "[outride](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[ride horseback]",
+      "definition": "ride on horseback",
+      "id": "[ride horseback](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[prance]",
+      "definition": "cause (a horse) to bound spring forward",
+      "id": "[prance](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[canter]",
+      "definition": "ride at a cantering pace",
+      "id": "[canter](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[gallop, extend]",
+      "definition": "cause to move at full gallop",
+      "id": "[gallop, extend](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 6,
+      "wordForms": "[sit]",
+      "definition": "be located or situated somewhere",
+      "id": "[sit](6)",
+      "pos": "VB"
+    },
+    {
+      "sense": 7,
+      "wordForms": "[baby-sit, sit, babysit]",
+      "definition": "work or act as a baby-sitter",
+      "id": "[baby-sit, sit, babysit](7)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[guard]",
+      "definition": "to keep watch over",
+      "id": "[guard](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 8,
+      "wordForms": "[seat, sit, sit down]",
+      "definition": "show to a seat; assign a seat for",
+      "id": "[seat, sit, sit down](8)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[put, set, place, pose, position, lay]",
+      "definition": "put into a certain place or abstract location",
+      "id": "[put, set, place, pose, position, lay](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[reseat]",
+      "definition": "show to a different seat",
+      "id": "[reseat](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 9,
+      "wordForms": "[sit]",
+      "definition": "serve in a specific professional capacity",
+      "id": "[sit](9)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[serve]",
+      "definition": "do duty or hold offices; serve in a specific function",
+      "id": "[serve](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 0,
+      "wordForms": "[on]",
+      "definition": "in operation or operational",
+      "id": "[on](0)",
+      "pos": "JJ"
+    },
+    {
+      "sense": 1,
+      "wordForms": "[on]",
+      "definition": "(of events) planned or scheduled",
+      "id": "[on](1)",
+      "pos": "JJ"
+    },
+    {
+      "sense": 2,
+      "wordForms": "[along, on]",
+      "definition": "with a forward motion",
+      "id": "[along, on](2)",
+      "pos": "RB"
+    },
+    {
+      "sense": 3,
+      "wordForms": "[on]",
+      "definition": "indicates continuity or persistence or concentration",
+      "id": "[on](3)",
+      "pos": "RB"
+    },
+    {
+      "sense": 4,
+      "wordForms": "[on]",
+      "definition": "in a state required for something to function or be effective",
+      "id": "[on](4)",
+      "pos": "RB"
+    },
+    {
+      "sense": 0,
+      "wordForms": "[bank]",
+      "definition": "sloping land (especially the slope beside a body of water)",
+      "id": "[bank](0)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[slope, incline, side]",
+      "definition": "an elevated geological formation",
+      "id": "[slope, incline, side](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[riverbank, riverside]",
+      "definition": "the bank of a river",
+      "id": "[riverbank, riverside](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[waterside]",
+      "definition": "land bordering a body of water",
+      "id": "[waterside](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 1,
+      "wordForms": "[depository financial institution, bank, banking concern, banking company]",
+      "definition": "a financial institution that accepts deposits and channels the money into lending activities",
+      "id": "[depository financial institution, bank, banking concern, banking company](1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[financial institution, financial organization, financial organisation]",
+      "definition": "an institution (public or private) that collects funds (from the public or other institutions) and invests them in financial assets",
+      "id": "[financial institution, financial organization, financial organisation](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[credit union]",
+      "definition": "a cooperative depository financial institution whose members can obtain loans from their combined savings",
+      "id": "[credit union](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[Federal Reserve Bank, reserve bank]",
+      "definition": "one of 12 regional banks that monitor and act as depositories for banks in their region",
+      "id": "[Federal Reserve Bank, reserve bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[agent bank]",
+      "definition": "a bank that acts as an agent for a foreign bank",
+      "id": "[agent bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[commercial bank, full service bank]",
+      "definition": "a financial institution that accepts demand deposits and makes loans and provides other services for the public",
+      "id": "[commercial bank, full service bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[state bank]",
+      "definition": "a bank chartered by a state rather than by the federal government",
+      "id": "[state bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[lead bank, agent bank]",
+      "definition": "a bank named by a lending syndicate of several banks to protect their interests",
+      "id": "[lead bank, agent bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[member bank]",
+      "definition": "a bank that is a member of the Federal Reserve System",
+      "id": "[member bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[merchant bank, acquirer]",
+      "definition": "a credit card processing bank; merchants receive credit for credit card receipts less a processing fee",
+      "id": "[merchant bank, acquirer](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[acquirer]",
+      "definition": "a corporation gaining financial control over another corporation or financial institution through a payment in cash or an exchange of stock",
+      "id": "[acquirer](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[thrift institution]",
+      "definition": "a depository financial institution intended to encourage personal savings and home buying",
+      "id": "[thrift institution](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[Home Loan Bank]",
+      "definition": "one of 11 regional banks that monitor and make short-term credit advances to thrift institutions in their region",
+      "id": "[Home Loan Bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 2,
+      "wordForms": "[bank]",
+      "definition": "a long ridge or pile",
+      "id": "[bank](2)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[ridge]",
+      "definition": "a long narrow natural elevation or striation",
+      "id": "[ridge](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[bluff]",
+      "definition": "a high steep bank (usually formed by river erosion)",
+      "id": "[bluff](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[sandbank]",
+      "definition": "a submerged bank of sand near a shore or in a river; can be exposed at low tide",
+      "id": "[sandbank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 3,
+      "wordForms": "[bank]",
+      "definition": "an arrangement of similar objects in a row or in tiers",
+      "id": "[bank](3)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[array]",
+      "definition": "an orderly arrangement",
+      "id": "[array](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 4,
+      "wordForms": "[bank]",
+      "definition": "a supply or stock held in reserve for future use (especially in emergencies)",
+      "id": "[bank](4)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[reserve, backlog, stockpile]",
+      "definition": "something kept back or saved for future use or a special purpose",
+      "id": "[reserve, backlog, stockpile](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[blood bank]",
+      "definition": "a place for storing whole blood or blood plasma",
+      "id": "[blood bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[eye bank]",
+      "definition": "a place for storing and preserving corneas that are obtained from human corpses immediately after death; used for corneal transplantation to patients with corneal defects",
+      "id": "[eye bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[food bank]",
+      "definition": "a place where food is contributed and made available to those in need",
+      "id": "[food bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[soil bank]",
+      "definition": "land retired from crop cultivation and planted with soil-building crops; government subsidies are paid to farmers for their retired land",
+      "id": "[soil bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 5,
+      "wordForms": "[bank]",
+      "definition": "the funds held by a gambling house or the dealer in some gambling games",
+      "id": "[bank](5)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[funds, finances, monetary resource, cash in hand, pecuniary resource]",
+      "definition": "assets in the form of money",
+      "id": "[funds, finances, monetary resource, cash in hand, pecuniary resource](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 6,
+      "wordForms": "[bank, cant, camber]",
+      "definition": "a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force",
+      "id": "[bank, cant, camber](6)",
+      "pos": "NN"
+    },
+    {
+      "sense": 7,
+      "wordForms": "[savings bank, coin bank, money box, bank]",
+      "definition": "a container (usually with a slot in the top) for keeping money at home",
+      "id": "[savings bank, coin bank, money box, bank](7)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[container]",
+      "definition": "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)",
+      "id": "[container](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[piggy bank, penny bank]",
+      "definition": "a child\u0027s coin bank (often shaped like a pig)",
+      "id": "[piggy bank, penny bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 8,
+      "wordForms": "[bank, bank building]",
+      "definition": "a building in which the business of banking transacted",
+      "id": "[bank, bank building](8)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[depository, deposit, depositary, repository]",
+      "definition": "a facility where things can be deposited for storage or safekeeping",
+      "id": "[depository, deposit, depositary, repository](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 9,
+      "wordForms": "[bank]",
+      "definition": "a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)",
+      "id": "[bank](9)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[flight maneuver, airplane maneuver]",
+      "definition": "a maneuver executed by an aircraft",
+      "id": "[flight maneuver, airplane maneuver](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[vertical bank]",
+      "definition": "a bank so steep that the plane\u0027s lateral axis approaches the vertical",
+      "id": "[vertical bank](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 0,
+      "wordForms": "[river]",
+      "definition": "a large natural stream of water (larger than a creek)",
+      "id": "[river](0)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[stream, watercourse]",
+      "definition": "a natural body of running water flowing on or under the earth",
+      "id": "[stream, watercourse](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 0,
+      "wordForms": "[watch]",
+      "definition": "look attentively",
+      "id": "[watch](0)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[witness]",
+      "definition": "be a witness to",
+      "id": "[witness](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[rubberneck]",
+      "definition": "strain to watch; stare curiously",
+      "id": "[rubberneck](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 2,
+      "wordForms": "[watch, view, see, catch, take in]",
+      "definition": "see or watch",
+      "id": "[watch, view, see, catch, take in](2)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[observe]",
+      "definition": "watch attentively",
+      "id": "[observe](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 1,
+      "wordForms": "[watch, observe, follow, watch over, keep an eye on]",
+      "definition": "follow with the eyes or the mind",
+      "id": "[watch, observe, follow, watch over, keep an eye on](1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[check, check up on, look into, check out, suss out, check over, go over, check into]",
+      "definition": "examine so as to determine accuracy, quality, or condition",
+      "id": "[check, check up on, look into, check out, suss out, check over, go over, check into](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[keep tabs on]",
+      "definition": "keep a record on or watch attentively",
+      "id": "[keep tabs on](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[invigilate, proctor]",
+      "definition": "watch over (students taking an exam, to prevent cheating)",
+      "id": "[invigilate, proctor](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 3,
+      "wordForms": "[watch, look on]",
+      "definition": "observe with attention",
+      "id": "[watch, look on](3)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[sit by, sit back]",
+      "definition": "be inactive or indifferent while something is happening",
+      "id": "[sit by, sit back](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 4,
+      "wordForms": "[watch, look out, watch out]",
+      "definition": "be vigilant, be on the lookout or be careful",
+      "id": "[watch, look out, watch out](4)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[beware, mind]",
+      "definition": "be on one\u0027s guard; be cautious or wary about; be alert to",
+      "id": "[beware, mind](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[keep one\u0027s eyes peeled, keep one\u0027s eyes skinned, keep one\u0027s eyes open]",
+      "definition": "pay attention; be watchful",
+      "id": "[keep one\u0027s eyes peeled, keep one\u0027s eyes skinned, keep one\u0027s eyes open](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[look after]",
+      "definition": "keep under careful scrutiny",
+      "id": "[look after](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 5,
+      "wordForms": "[watch]",
+      "definition": "observe or determine by looking",
+      "id": "[watch](5)",
+      "pos": "VB"
+    },
+    {
+      "sense": 6,
+      "wordForms": "[determine, check, find out, see, ascertain, watch, learn]",
+      "definition": "find out, learn, or determine with certainty, usually by making an inquiry or other effort",
+      "id": "[determine, check, find out, see, ascertain, watch, learn](6)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[test]",
+      "definition": "determine the presence or properties of (a substance)",
+      "id": "[test](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 0,
+      "wordForms": "[current, electric current]",
+      "definition": "a flow of electricity through a conductor",
+      "id": "[current, electric current](0)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[electrical phenomenon]",
+      "definition": "a physical phenomenon involving electricity",
+      "id": "[electrical phenomenon](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[juice]",
+      "definition": "electric current",
+      "id": "[juice](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[thermionic current]",
+      "definition": "an electric current produced between two electrodes as a result of electrons emitted by thermionic emission",
+      "id": "[thermionic current](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 1,
+      "wordForms": "[current, stream]",
+      "definition": "a steady flow of a fluid (usually from natural causes)",
+      "id": "[current, stream](1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[flow, flowing]",
+      "definition": "the motion characteristic of fluids (liquids or gases)",
+      "id": "[flow, flowing](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[tidal flow, tidal current]",
+      "definition": "the water current caused by the tides",
+      "id": "[tidal flow, tidal current](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[riptide, rip current]",
+      "definition": "a strong surface current flowing outwards from a shore",
+      "id": "[riptide, rip current](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[undertide, undercurrent]",
+      "definition": "a current below the surface of a fluid",
+      "id": "[undertide, undercurrent](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[torrent, violent stream]",
+      "definition": "a violently fast stream of water (or other liquid)",
+      "id": "[torrent, violent stream](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[eddy, twist]",
+      "definition": "a miniature whirlpool or whirlwind resulting when the current of a fluid doubles back on itself",
+      "id": "[eddy, twist](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[whirlpool, vortex, maelstrom]",
+      "definition": "a powerful circular current of water (usually the result of conflicting tides)",
+      "id": "[whirlpool, vortex, maelstrom](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[ocean current]",
+      "definition": "the steady flow of surface ocean water in a prevailing direction",
+      "id": "[ocean current](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 2,
+      "wordForms": "[stream, flow, current]",
+      "definition": "dominant course (suggestive of running water) of successive events or ideas",
+      "id": "[stream, flow, current](2)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[course, line]",
+      "definition": "a connected series of events or actions or developments",
+      "id": "[course, line](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 0,
+      "wordForms": "[pull, draw]",
+      "definition": "cause to move by pulling",
+      "id": "[pull, draw](0)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[move, displace]",
+      "definition": "cause to move or shift into a new position or place, both in a concrete and in an abstract sense",
+      "id": "[move, displace](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[twitch]",
+      "definition": "move or pull with a sudden motion",
+      "id": "[twitch](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[pull back]",
+      "definition": "move to a rearward position; pull towards the back",
+      "id": "[pull back](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[adduct]",
+      "definition": "draw a limb towards the body",
+      "id": "[adduct](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[abduct]",
+      "definition": "pull away from the body",
+      "id": "[abduct](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[stretch]",
+      "definition": "pull in opposite directions",
+      "id": "[stretch](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[pluck, plunk, pick]",
+      "definition": "pull lightly but sharply with a plucking motion",
+      "id": "[pluck, plunk, pick](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[tug]",
+      "definition": "pull or strain hard at",
+      "id": "[tug](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[drag]",
+      "definition": "pull, as against a resistance",
+      "id": "[drag](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[haul, hale, cart, drag]",
+      "definition": "draw slowly or heavily",
+      "id": "[haul, hale, cart, drag](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 1,
+      "wordForms": "[attract, pull, pull in, draw, draw in]",
+      "definition": "direct toward itself or oneself by means of some psychological power or physical attributes",
+      "id": "[attract, pull, pull in, draw, draw in](1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[yank, jerk]",
+      "definition": "pull, or move with a sudden movement",
+      "id": "[yank, jerk](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[winch]",
+      "definition": "pull or lift up with or as if with a winch",
+      "id": "[winch](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[pluck, tweak, pull off, pick off]",
+      "definition": "pull or pull out sharply",
+      "id": "[pluck, tweak, pull off, pick off](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 2,
+      "wordForms": "[pull]",
+      "definition": "move into a certain direction",
+      "id": "[pull](2)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[drive]",
+      "definition": "move by being propelled by a force",
+      "id": "[drive](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[cut in]",
+      "definition": "drive in front of another vehicle leaving too little space for that vehicle to maneuver comfortably",
+      "id": "[cut in](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 3,
+      "wordForms": "[pull]",
+      "definition": "apply force so as to cause motion towards the source of the motion",
+      "id": "[pull](3)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[force]",
+      "definition": "do forcibly; exert force",
+      "id": "[force](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[wrench, twist]",
+      "definition": "twist or pull violently or suddenly, especially so as to remove (something) from that to which it is attached or from where it originates",
+      "id": "[wrench, twist](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[gather]",
+      "definition": "draw and bring closer",
+      "id": "[gather](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[attract]",
+      "definition": "exert a force on (a body) causing it to approach or prevent it from moving away",
+      "id": "[attract](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[hike up, hitch up]",
+      "definition": "pull up",
+      "id": "[hike up, hitch up](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[pick at, pluck at, pull at]",
+      "definition": "pluck or pull at with the fingers",
+      "id": "[pick at, pluck at, pull at](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[retract, pull back, draw back]",
+      "definition": "use a surgical instrument to hold open (the edges of a wound or an organ)",
+      "id": "[retract, pull back, draw back](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[draw close]",
+      "definition": "pull towards oneself",
+      "id": "[draw close](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 4,
+      "wordForms": "[perpetrate, commit, pull]",
+      "definition": "perform an act, usually with a negative connotation",
+      "id": "[perpetrate, commit, pull](4)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[act, move]",
+      "definition": "perform an action, or work out or perform (an action)",
+      "id": "[act, move](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[make]",
+      "definition": "carry out or commit",
+      "id": "[make](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[recommit]",
+      "definition": "commit once again, as of a crime",
+      "id": "[recommit](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 5,
+      "wordForms": "[draw, pull, pull out, get out, take out]",
+      "definition": "bring, take, or pull out of a container or from under a cover",
+      "id": "[draw, pull, pull out, get out, take out](5)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[remove, take, take away, withdraw]",
+      "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+      "id": "[remove, take, take away, withdraw](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[unsheathe]",
+      "definition": "draw from a sheath or scabbard",
+      "id": "[unsheathe](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 6,
+      "wordForms": "[pull]",
+      "definition": "steer into a certain direction",
+      "id": "[pull](6)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[drive]",
+      "definition": "cause someone or something to move by driving",
+      "id": "[drive](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 7,
+      "wordForms": "[pull, overstretch]",
+      "definition": "strain abnormally",
+      "id": "[pull, overstretch](7)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[injure, wound]",
+      "definition": "cause injuries or bodily harm to",
+      "id": "[injure, wound](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 8,
+      "wordForms": "[pull, draw]",
+      "definition": "cause to move in a certain direction by exerting a force upon, either physically or in an abstract sense",
+      "id": "[pull, draw](8)",
+      "pos": "VB"
+    },
+    {
+      "sense": 9,
+      "wordForms": "[pull]",
+      "definition": "operate when rowing a boat",
+      "id": "[pull](9)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[row]",
+      "definition": "propel with oars",
+      "id": "[row](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 10,
+      "wordForms": "[pull]",
+      "definition": "rein in to keep from winning a race",
+      "id": "[pull](10)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[rein, rein in]",
+      "definition": "stop or check by or as if by a pull at the reins",
+      "id": "[rein, rein in](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 11,
+      "wordForms": "[rend, rip, rive, pull]",
+      "definition": "tear or be torn violently",
+      "id": "[rend, rip, rive, pull](11)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[tear, rupture, snap, bust]",
+      "definition": "separate or cause to separate abruptly",
+      "id": "[tear, rupture, snap, bust](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 12,
+      "wordForms": "[pull]",
+      "definition": "hit in the direction that the player is facing when carrying through the swing",
+      "id": "[pull](12)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[hit]",
+      "definition": "cause to move by striking",
+      "id": "[hit](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 13,
+      "wordForms": "[pluck, pull, tear, deplume, deplumate, displume]",
+      "definition": "strip of feathers",
+      "id": "[pluck, pull, tear, deplume, deplumate, displume](13)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[strip]",
+      "definition": "remove the surface from",
+      "id": "[strip](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 14,
+      "wordForms": "[extract, pull out, pull, pull up, take out, draw out, rip out, tear out]",
+      "definition": "remove, usually with some force or effort; also used in an abstract sense",
+      "id": "[extract, pull out, pull, pull up, take out, draw out, rip out, tear out](14)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[wring out, squeeze out]",
+      "definition": "extract (liquid) by squeezing or pressing",
+      "id": "[wring out, squeeze out](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[demodulate]",
+      "definition": "extract information from a modulated carrier wave",
+      "id": "[demodulate](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[thread]",
+      "definition": "remove facial hair by tying a fine string around it and pulling at the string",
+      "id": "[thread](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 15,
+      "wordForms": "[pull, root for]",
+      "definition": "take sides with; align oneself with; show strong sympathy for",
+      "id": "[pull, root for](15)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[side]",
+      "definition": "take sides for or against",
+      "id": "[side](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 16,
+      "wordForms": "[pull]",
+      "definition": "take away",
+      "id": "[pull](16)",
+      "pos": "VB"
+    },
+    {
+      "sense": 0,
+      "wordForms": "[canoe]",
+      "definition": "small and light boat; pointed at both ends; propelled with a paddle",
+      "id": "[canoe](0)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[small boat]",
+      "definition": "a boat that is small",
+      "id": "[small boat](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[birchbark canoe, birchbark, birch bark]",
+      "definition": "a canoe made with the bark of a birch tree",
+      "id": "[birchbark canoe, birchbark, birch bark](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[dugout canoe, dugout, pirogue]",
+      "definition": "a canoe made by hollowing out and shaping a large log",
+      "id": "[dugout canoe, dugout, pirogue](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[kayak]",
+      "definition": "a small canoe consisting of a light frame made watertight with animal skins; used by Eskimos",
+      "id": "[kayak](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[outrigger canoe]",
+      "definition": "a seagoing canoe (as in South Pacific) with an outrigger to prevent it from upsetting",
+      "id": "[outrigger canoe](-1)",
+      "pos": "NN"
+    },
+    {
+      "sense": 0,
+      "wordForms": "[up]",
+      "definition": "raise",
+      "id": "[up](0)",
+      "pos": "VB"
+    },
+    {
+      "sense": -1,
+      "wordForms": "[increase]",
+      "definition": "make bigger or more",
+      "id": "[increase](-1)",
+      "pos": "VB"
+    },
+    {
+      "sense": 1,
+      "wordForms": "[up]",
+      "definition": "being or moving higher in position or greater in some value; being above a former position or level",
+      "id": "[up](1)",
+      "pos": "JJ"
+    },
+    {
+      "sense": 2,
+      "wordForms": "[up, upwards, upward, upwardly]",
+      "definition": "spatially or metaphorically from a lower to a higher position",
+      "id": "[up, upwards, upward, upwardly](2)",
+      "pos": "RB"
+    },
+    {
+      "sense": 3,
+      "wordForms": "[up]",
+      "definition": "to a higher intensity",
+      "id": "[up](3)",
+      "pos": "RB"
+    },
+    {
+      "sense": 4,
+      "wordForms": "[up]",
+      "definition": "nearer to the speaker",
+      "id": "[up](4)",
+      "pos": "RB"
+    },
+    {
+      "sense": 5,
+      "wordForms": "[up]",
+      "definition": "to a more central or a more northerly place",
+      "id": "[up](5)",
+      "pos": "RB"
+    },
+    {
+      "sense": 6,
+      "wordForms": "[up, upwards, upward]",
+      "definition": "to a later time",
+      "id": "[up, upwards, upward](6)",
+      "pos": "RB"
+    }
+  ],
+  "links": [
+    {
+      "source": "[sit, sit down](0)",
+      "target": "[lounge](-1)"
+    },
+    {
+      "source": "[sit, sit down](0)",
+      "target": "[sprawl](-1)"
+    },
+    {
+      "source": "[sit, sit down](0)",
+      "target": "[perch, roost, rest](-1)"
+    },
+    {
+      "source": "[sit, sit down](0)",
+      "target": "[squat, crouch, scrunch, scrunch up, hunker, hunker down](-1)"
+    },
+    {
+      "source": "[sit, sit around](1)",
+      "target": "[be](-1)"
+    },
+    {
+      "source": "[sit down, sit](2)",
+      "target": "[change posture](-1)"
+    },
+    {
+      "source": "[sit](3)",
+      "target": "[convene](-1)"
+    },
+    {
+      "source": "[model, pose, sit, posture](4)",
+      "target": "[expose, exhibit, display](-1)"
+    },
+    {
+      "source": "[model, pose, sit, posture](4)",
+      "target": "[ramp](-1)"
+    },
+    {
+      "source": "[ride, sit](5)",
+      "target": "[travel, go, move, locomote](-1)"
+    },
+    {
+      "source": "[ride, sit](5)",
+      "target": "[override](-1)"
+    },
+    {
+      "source": "[ride, sit](5)",
+      "target": "[ride herd](-1)"
+    },
+    {
+      "source": "[ride, sit](5)",
+      "target": "[outride](-1)"
+    },
+    {
+      "source": "[ride, sit](5)",
+      "target": "[ride horseback](-1)"
+    },
+    {
+      "source": "[ride, sit](5)",
+      "target": "[prance](-1)"
+    },
+    {
+      "source": "[ride, sit](5)",
+      "target": "[canter](-1)"
+    },
+    {
+      "source": "[ride, sit](5)",
+      "target": "[gallop, extend](-1)"
+    },
+    {
+      "source": "[sit](6)",
+      "target": "[be](-1)"
+    },
+    {
+      "source": "[baby-sit, sit, babysit](7)",
+      "target": "[guard](-1)"
+    },
+    {
+      "source": "[seat, sit, sit down](8)",
+      "target": "[put, set, place, pose, position, lay](-1)"
+    },
+    {
+      "source": "[seat, sit, sit down](8)",
+      "target": "[sit, sit down](0)"
+    },
+    {
+      "source": "[seat, sit, sit down](8)",
+      "target": "[reseat](-1)"
+    },
+    {
+      "source": "[sit](9)",
+      "target": "[serve](-1)"
+    },
+    {
+      "source": "[bank](0)",
+      "target": "[slope, incline, side](-1)"
+    },
+    {
+      "source": "[bank](0)",
+      "target": "[riverbank, riverside](-1)"
+    },
+    {
+      "source": "[bank](0)",
+      "target": "[waterside](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[financial institution, financial organization, financial organisation](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[credit union](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[Federal Reserve Bank, reserve bank](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[agent bank](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[commercial bank, full service bank](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[state bank](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[lead bank, agent bank](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[member bank](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[merchant bank, acquirer](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[acquirer](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[thrift institution](-1)"
+    },
+    {
+      "source": "[depository financial institution, bank, banking concern, banking company](1)",
+      "target": "[Home Loan Bank](-1)"
+    },
+    {
+      "source": "[bank](2)",
+      "target": "[ridge](-1)"
+    },
+    {
+      "source": "[bank](2)",
+      "target": "[bluff](-1)"
+    },
+    {
+      "source": "[bank](2)",
+      "target": "[sandbank](-1)"
+    },
+    {
+      "source": "[bank](3)",
+      "target": "[array](-1)"
+    },
+    {
+      "source": "[bank](4)",
+      "target": "[reserve, backlog, stockpile](-1)"
+    },
+    {
+      "source": "[bank](4)",
+      "target": "[blood bank](-1)"
+    },
+    {
+      "source": "[bank](4)",
+      "target": "[eye bank](-1)"
+    },
+    {
+      "source": "[bank](4)",
+      "target": "[food bank](-1)"
+    },
+    {
+      "source": "[bank](4)",
+      "target": "[soil bank](-1)"
+    },
+    {
+      "source": "[bank](5)",
+      "target": "[funds, finances, monetary resource, cash in hand, pecuniary resource](-1)"
+    },
+    {
+      "source": "[bank, cant, camber](6)",
+      "target": "[slope, incline, side](-1)"
+    },
+    {
+      "source": "[savings bank, coin bank, money box, bank](7)",
+      "target": "[container](-1)"
+    },
+    {
+      "source": "[savings bank, coin bank, money box, bank](7)",
+      "target": "[piggy bank, penny bank](-1)"
+    },
+    {
+      "source": "[bank, bank building](8)",
+      "target": "[depository, deposit, depositary, repository](-1)"
+    },
+    {
+      "source": "[bank](9)",
+      "target": "[flight maneuver, airplane maneuver](-1)"
+    },
+    {
+      "source": "[bank](9)",
+      "target": "[vertical bank](-1)"
+    },
+    {
+      "source": "[river](0)",
+      "target": "[stream, watercourse](-1)"
+    },
+    {
+      "source": "[watch](0)",
+      "target": "[witness](-1)"
+    },
+    {
+      "source": "[watch](0)",
+      "target": "[rubberneck](-1)"
+    },
+    {
+      "source": "[watch](0)",
+      "target": "[watch, view, see, catch, take in](2)"
+    },
+    {
+      "source": "[watch](0)",
+      "target": "[observe](-1)"
+    },
+    {
+      "source": "[watch, observe, follow, watch over, keep an eye on](1)",
+      "target": "[check, check up on, look into, check out, suss out, check over, go over, check into](-1)"
+    },
+    {
+      "source": "[watch, observe, follow, watch over, keep an eye on](1)",
+      "target": "[keep tabs on](-1)"
+    },
+    {
+      "source": "[watch, observe, follow, watch over, keep an eye on](1)",
+      "target": "[guard](-1)"
+    },
+    {
+      "source": "[watch, observe, follow, watch over, keep an eye on](1)",
+      "target": "[invigilate, proctor](-1)"
+    },
+    {
+      "source": "[watch, look on](3)",
+      "target": "[sit by, sit back](-1)"
+    },
+    {
+      "source": "[watch, look out, watch out](4)",
+      "target": "[beware, mind](-1)"
+    },
+    {
+      "source": "[watch, look out, watch out](4)",
+      "target": "[keep one\u0027s eyes peeled, keep one\u0027s eyes skinned, keep one\u0027s eyes open](-1)"
+    },
+    {
+      "source": "[watch, look out, watch out](4)",
+      "target": "[look after](-1)"
+    },
+    {
+      "source": "[determine, check, find out, see, ascertain, watch, learn](6)",
+      "target": "[test](-1)"
+    },
+    {
+      "source": "[current, electric current](0)",
+      "target": "[electrical phenomenon](-1)"
+    },
+    {
+      "source": "[current, electric current](0)",
+      "target": "[juice](-1)"
+    },
+    {
+      "source": "[current, electric current](0)",
+      "target": "[thermionic current](-1)"
+    },
+    {
+      "source": "[current, stream](1)",
+      "target": "[flow, flowing](-1)"
+    },
+    {
+      "source": "[current, stream](1)",
+      "target": "[tidal flow, tidal current](-1)"
+    },
+    {
+      "source": "[current, stream](1)",
+      "target": "[riptide, rip current](-1)"
+    },
+    {
+      "source": "[current, stream](1)",
+      "target": "[undertide, undercurrent](-1)"
+    },
+    {
+      "source": "[current, stream](1)",
+      "target": "[torrent, violent stream](-1)"
+    },
+    {
+      "source": "[current, stream](1)",
+      "target": "[eddy, twist](-1)"
+    },
+    {
+      "source": "[current, stream](1)",
+      "target": "[whirlpool, vortex, maelstrom](-1)"
+    },
+    {
+      "source": "[current, stream](1)",
+      "target": "[ocean current](-1)"
+    },
+    {
+      "source": "[stream, flow, current](2)",
+      "target": "[course, line](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[move, displace](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[twitch](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[pull back](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[adduct](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[abduct](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[stretch](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[pluck, plunk, pick](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[tug](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[drag](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[haul, hale, cart, drag](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[attract, pull, pull in, draw, draw in](1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[yank, jerk](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[winch](-1)"
+    },
+    {
+      "source": "[pull, draw](0)",
+      "target": "[pluck, tweak, pull off, pick off](-1)"
+    },
+    {
+      "source": "[pull](2)",
+      "target": "[drive](-1)"
+    },
+    {
+      "source": "[pull](2)",
+      "target": "[cut in](-1)"
+    },
+    {
+      "source": "[pull](3)",
+      "target": "[force](-1)"
+    },
+    {
+      "source": "[pull](3)",
+      "target": "[wrench, twist](-1)"
+    },
+    {
+      "source": "[pull](3)",
+      "target": "[gather](-1)"
+    },
+    {
+      "source": "[pull](3)",
+      "target": "[attract](-1)"
+    },
+    {
+      "source": "[pull](3)",
+      "target": "[hike up, hitch up](-1)"
+    },
+    {
+      "source": "[pull](3)",
+      "target": "[pick at, pluck at, pull at](-1)"
+    },
+    {
+      "source": "[pull](3)",
+      "target": "[retract, pull back, draw back](-1)"
+    },
+    {
+      "source": "[pull](3)",
+      "target": "[draw close](-1)"
+    },
+    {
+      "source": "[perpetrate, commit, pull](4)",
+      "target": "[act, move](-1)"
+    },
+    {
+      "source": "[perpetrate, commit, pull](4)",
+      "target": "[make](-1)"
+    },
+    {
+      "source": "[perpetrate, commit, pull](4)",
+      "target": "[recommit](-1)"
+    },
+    {
+      "source": "[draw, pull, pull out, get out, take out](5)",
+      "target": "[remove, take, take away, withdraw](-1)"
+    },
+    {
+      "source": "[draw, pull, pull out, get out, take out](5)",
+      "target": "[unsheathe](-1)"
+    },
+    {
+      "source": "[pull](6)",
+      "target": "[drive](-1)"
+    },
+    {
+      "source": "[pull, overstretch](7)",
+      "target": "[injure, wound](-1)"
+    },
+    {
+      "source": "[pull, draw](8)",
+      "target": "[move, displace](-1)"
+    },
+    {
+      "source": "[pull](9)",
+      "target": "[row](-1)"
+    },
+    {
+      "source": "[pull](10)",
+      "target": "[rein, rein in](-1)"
+    },
+    {
+      "source": "[rend, rip, rive, pull](11)",
+      "target": "[tear, rupture, snap, bust](-1)"
+    },
+    {
+      "source": "[pull](12)",
+      "target": "[hit](-1)"
+    },
+    {
+      "source": "[pluck, pull, tear, deplume, deplumate, displume](13)",
+      "target": "[strip](-1)"
+    },
+    {
+      "source": "[extract, pull out, pull, pull up, take out, draw out, rip out, tear out](14)",
+      "target": "[remove, take, take away, withdraw](-1)"
+    },
+    {
+      "source": "[extract, pull out, pull, pull up, take out, draw out, rip out, tear out](14)",
+      "target": "[wring out, squeeze out](-1)"
+    },
+    {
+      "source": "[extract, pull out, pull, pull up, take out, draw out, rip out, tear out](14)",
+      "target": "[demodulate](-1)"
+    },
+    {
+      "source": "[extract, pull out, pull, pull up, take out, draw out, rip out, tear out](14)",
+      "target": "[thread](-1)"
+    },
+    {
+      "source": "[pull, root for](15)",
+      "target": "[side](-1)"
+    },
+    {
+      "source": "[pull](16)",
+      "target": "[remove, take, take away, withdraw](-1)"
+    },
+    {
+      "source": "[canoe](0)",
+      "target": "[small boat](-1)"
+    },
+    {
+      "source": "[canoe](0)",
+      "target": "[birchbark canoe, birchbark, birch bark](-1)"
+    },
+    {
+      "source": "[canoe](0)",
+      "target": "[dugout canoe, dugout, pirogue](-1)"
+    },
+    {
+      "source": "[canoe](0)",
+      "target": "[kayak](-1)"
+    },
+    {
+      "source": "[canoe](0)",
+      "target": "[outrigger canoe](-1)"
+    },
+    {
+      "source": "[up](0)",
+      "target": "[increase](-1)"
+    }
+  ]
+}
