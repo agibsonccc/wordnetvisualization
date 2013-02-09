@@ -25,9 +25,12 @@ rect {
 .link {
   stroke: #999;
 }
+.target {
+  stroke: red;
+}
 
 </style>
-<body></body>
+<body><input type  = "text" id = "search" /><button id= "searchbutton" >Search</button> </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script> 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
@@ -35,7 +38,7 @@ rect {
 $(function() {
   d3.json('data/graph.json',function( json ) {
      var width = 2000,
-    height = 1000;
+    height = 4000;
 var fill = d3.scale.category20();
 var nodeMap = {};
 json.nodes.map( function ( node ) {
@@ -46,9 +49,52 @@ var links = [];
 json.links.map ( function( link  ) {
   links.push( {"source":nodeMap[ link.source ],"target":nodeMap[ link.target]});
 });
+$('#searchbutton').click( function() {
+     if ( $('#search').val() )  {
 
-var width = 960,
-    height = 500
+     
+        var link = svg.selectAll(".link").data(links)
+    .enter().append("line")
+      .attr("class", function ( d, i ) {
+         if( d.source.id ===$('#search').val() || d.target.id === $('#search').val() )
+         return "link target";
+         else return "link";
+      });
+
+       svg.selectAll('.node').attr( "height",function( d, i ) {
+        if( d.id === $('#search').val() ) {
+          console.log( d );
+      
+      //scroll to node
+      $('html, body').animate({
+        scrollLeft: d.px,
+        scrollTop : d.py
+    }, 2000);
+      svg.append("line")
+    .attr("x1", 0 )
+    .attr("y1", 0 )
+    .attr("x2", d.px )
+    .attr("y2", d.py )
+    .style("stroke", "black");
+           return 1000;
+        }
+              
+        else return 16 ; 
+      }).append("image")
+      .attr("xlink:href", function( d, i ) {
+             if( d.id && d.id === $('#search').val() ) {
+              console.log( 'github');
+              return "https://github.com/favicon.ico";
+             }
+                  
+              else return "https://google.com/favicon.ico";
+      })
+      .call(force.drag);
+     }
+   
+});
+var width = 3000,
+    height = 2000;
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
@@ -94,20 +140,43 @@ function restart() {
         var link = svg.selectAll(".link")
       .data(links)
     .enter().append("line")
-      .attr("class", "link");
+      .attr("class", function ( d, i ) {
+         if( d.source.id ===$('#search').val() || d.target.id === $('#search').val() )
+         return "link target";
+         else return "link";
+      });
 
   var node = svg.selectAll(".node")
       .data(json.nodes)
     .enter().append("g")
-      .attr("class", "node")
+      .attr("class", function( d, i ) {
+        if( d.id === $('#search').val() )
+               return "node target";
+        else return "node"; 
+      })
       .call(force.drag);
 
        node.append("image")
-      .attr("xlink:href", "https://github.com/favicon.ico")
+      .attr("xlink:href", function( d, i ) {
+             if( d.id && d.id === $('#search').val() ) {
+              console.log( 'github');
+              return "https://github.com/favicon.ico";
+             }
+                  
+              else return "https://google.com/favicon.ico";
+      })
       .attr("x", -8)
       .attr("y", -8)
-      .attr("width", 16)
-      .attr("height", 16);
+      .attr("width" ,function( d, i )  {
+        if( d.id === $('#search').val() )
+          return 100;
+        else return 16;
+      })
+      .attr("height", function ( d, i ) {
+         if( d.id === $('#search').val() )
+          return 100;
+        else return 16;
+      });
 
   node.append("text")
       .attr("dx", 12)
@@ -126,6 +195,7 @@ force.on("tick", function() {
 }
 
   });
+
 });
 
 </script>
